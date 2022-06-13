@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Date">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAkAABAIAAAAAAAEAAkQAAAAAQIAAABDAAAAAQAAAA=</HashCode>
+      <FileName>head.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="8" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAgAEAAAQA=</HashCode>
+      <FileName>head.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Account">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAgEAEAQBAAAAAgAAAAAgACAQAAAkQ=</HashCode>
+      <FileName>head.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunningAccount">
+    <Position X="1" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAgAQAQAAAAAAAgFAAAAAIABAwAAAAAAAAAQAAAIAA=</HashCode>
+      <FileName>head.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RidingAccount">
+    <Position X="4.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAgAQABAAAAAQAgFACAAAIABAQAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>head.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="deleter">
+    <Position X="8" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
